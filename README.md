@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Wizard-one
-- 👀 I’m interested in EMD (Empirical Mode Decomposition) application 
-- 🌱 I’m currently learning Speech Enhancement
+- 🌱 I’m currently working on Multichannel Speech Enhancement.
 
 <!---
 Wizard-one/Wizard-one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
