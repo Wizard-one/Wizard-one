@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wizard-one
-- 🌱 I’m currently working on Multichannel Speech Enhancement.
+- 🌱 I’m currently working on  Speech Enhancement.
 
 <!---
 Wizard-one/Wizard-one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
